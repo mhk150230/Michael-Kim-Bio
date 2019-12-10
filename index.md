@@ -2,6 +2,8 @@
 layout: default
 ---
 
+LinkedIn: https://www.linkedin.com/in/michael-kim-427059169/ GitHub: https://github.com/mhk150230
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
