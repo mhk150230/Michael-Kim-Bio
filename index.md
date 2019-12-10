@@ -16,8 +16,8 @@ layout: default
 <dt>Hobbies</dt>
   <dd>Basketball, League of Legends</dd>
 <dt>Other Links</dt>
-  <dd>LinkedIn: https://www.linkedin.com/in/michael-kim-427059169/ </dd>
-  <dd>GitHub: https://github.com/mhk150230/Michael-Kim-Bio </dd>
+  <dd><a href= "https://www.linkedin.com/in/michael-kim-427059169/">LinkedIn</a></dd>
+  <dd><a href = https://github.com/mhk150230/Michael-Kim-Bio>GitHub</a></dd>
 </dl>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
