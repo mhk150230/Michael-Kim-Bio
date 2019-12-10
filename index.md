@@ -2,6 +2,9 @@
 layout: default
 ---
 
+![DallasMavericks](https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2011/06/12/112882-dirk-nowitzki.jpg)
+
+
 LinkedIn: https://www.linkedin.com/in/michael-kim-427059169/ GitHub: https://github.com/mhk150230/Michael-Kim-Bio
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
