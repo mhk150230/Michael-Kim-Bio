@@ -12,126 +12,27 @@ layout: default
   <dd>University of California, Los Angeles (Expected Grad. 2020 with M.Eng.)</dd>
   <dd>University of Texas at Dallas (Grad. 2019 with B.Eng.)</dd>
 <dt>Hometown</dt>
-  <dd>Dallas, TX</dd>
+  <dd>Dallas, Texas</dd>
 <dt>Hobbies</dt>
-  <dd>Basketball, League of Legends (Future Challenger)</dd>
+  <dd>Basketball: Dallas Mavericks, League of Legends: Future Challenger</dd>
 <dt>Other Links</dt>
   <dd><a href = "https://www.linkedin.com/in/michael-kim-427059169/">LinkedIn</a></dd>
-  <dd><a href = "https://github.com/mhk150230/Michael-Kim-Bio">GitHub</a></dd>
+  <dd><a href = "https://github.com/mhk150230/">GitHub</a></dd>
 </dl>
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-# About
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
 
 * * *
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# About
+My name is Michael and I am currently an Electrical and Computer Engineering graduate student at the University of California, Los Angeles, looking to complete my Master's degree by December 2020. I 
 
 
-### Definition lists can be used with HTML syntax.
+> "I truly believe experience is necessary for those who are unqualified. 
+> So in other words, if you’re not qualified to do it, you need that experience."
+> - Russell Wilson
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Although, I still value experience greatly, this quote really resonates with me when coming across new obstacles. 
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# Projects
 
-```
-The final element.
-```
+
+
