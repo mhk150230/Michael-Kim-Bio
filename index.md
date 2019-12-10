@@ -2,7 +2,7 @@
 layout: default
 ---
 <html>
-  <img src="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2011/06/12/112882-dirk-nowitzki.jpg" style="max-width:70%">
+  <center><img src="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2011/06/12/112882-dirk-nowitzki.jpg" style="max-width:70%"></center>
   </html>
   
 <dl>
@@ -14,9 +14,9 @@ layout: default
 <dt>Hometown</dt>
   <dd>Dallas, TX</dd>
 <dt>Hobbies</dt>
-  <dd>Basketball, League of Legends</dd>
+  <dd>Basketball, League of Legends (Future Challenger)</dd>
 <dt>Other Links</dt>
-  <dd><a href= "https://www.linkedin.com/in/michael-kim-427059169/">LinkedIn</a></dd>
+  <dd><a href = https://www.linkedin.com/in/michael-kim-427059169>LinkedIn</a></dd>
   <dd><a href = https://github.com/mhk150230/Michael-Kim-Bio>GitHub</a></dd>
 </dl>
 
@@ -24,11 +24,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Biography
+# About
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
