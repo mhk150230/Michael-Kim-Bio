@@ -1,11 +1,24 @@
 ---
 layout: default
 ---
-
-![DallasMavericks](https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2011/06/12/112882-dirk-nowitzki.jpg)
-
-
-LinkedIn: https://www.linkedin.com/in/michael-kim-427059169/ GitHub: https://github.com/mhk150230/Michael-Kim-Bio
+<html>
+  <img src="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2011/06/12/112882-dirk-nowitzki.jpg" style="max-width:70%">
+  </html>
+  
+<dl>
+<dt>Name</dt>
+  <dd>Michael Kim</dd>
+<dt>Education</dt>
+  <dd>University of California, Los Angeles (Expected Grad. 2020 with M.Eng.)</dd>
+  <dd>University of Texas at Dallas (Grad. 2019 with B.Eng.)</dd>
+<dt>Hometown</dt>
+  <dd>Dallas, TX</dd>
+<dt>Hobbies</dt>
+  <dd>Basketball, League of Legends</dd>
+<dt>Other Links</dt>
+  <dd>LinkedIn: https://www.linkedin.com/in/michael-kim-427059169/ </dd>
+  <dd>GitHub: https://github.com/mhk150230/Michael-Kim-Bio </dd>
+</dl>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -15,7 +28,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Biography
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
