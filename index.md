@@ -2,7 +2,7 @@
 layout: default
 ---
 
-LinkedIn: https://www.linkedin.com/in/michael-kim-427059169/ GitHub: https://github.com/mhk150230
+LinkedIn: https://www.linkedin.com/in/michael-kim-427059169/ GitHub: https://github.com/mhk150230/Michael-Kim-Bio
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
