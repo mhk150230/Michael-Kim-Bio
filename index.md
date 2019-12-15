@@ -43,7 +43,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>HTML/CSS (Strong)</dd>
   <dd>Android Studios (Strong)</dd>
   <dd>Verilog</dd>
-<dt>Classes</dt>
+<dt>Graduate Study Classes</dt>
   <dd>Embedded Systems</dd>
   <dd>Human Computer Interaction</dd>
   <dd>Digital Image Processing II</dd>
