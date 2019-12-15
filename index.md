@@ -88,7 +88,8 @@ Kobe. Bean. Bryant.
 The man is an unstoppable force in the game of basketball. If you pressure him at the top, he'll go by you. If you give him the shot, he's going to take it. He's got handles, he can pass, he can shoot. If you want it bad, just know that so does he. There is nothing this man won't do to win. Kobe Bryant is a phenomenal basketball player, but what draws me to him the most is what he does to get there: the work ethic, the passion, the hunger, and the perserverance. There's an aura about Kobe that I can't describe, but there's no doubt about it- it's got something to do with the number 5. 
 
 <html>
-<center><img style="-webkit-user-select: none;margin: auto;" src="https://thumbs.gfycat.com/EnchantingFickleAphid-size_restricted.gif" style="max-width:80%"></center></html>
+<center><img style="-webkit-user-select: none;margin: auto;" src="https://thumbs.gfycat.com/EnchantingFickleAphid-size_restricted.gif" style="max-width:80%"></center><br></html>
+
 
 
 # My Favorite Quotes
