@@ -21,6 +21,11 @@ layout: default
 # About
 Hi! My name is Michael Kim and I am currently an Electrical and Computer Engineering graduate student at the University of California, Los Angeles. I expect to complete my Master's degree by December 2020. I completed my Bachelor's degree in Biomedical Engineering at the University of Texas at Dallas in May 2019. 
 
+<html>
+  <center><img src="https://sportslogohistory.com/wp-content/uploads/2018/03/ucla_bruins_2004-pres_a.png
+" style="max-width:50%"></center><br>
+  </html>
+  
 Over the past 5 years, I have been blessed to be able to take courses that spark my interest while also focusing on my development as a future engineer. I have had many successes to push me to aspire for more, and I have had many failures to keep myself in check. I'm not afraid to fail, but my mindset is always to succeed. My three strongest attributes are my work ethic, my integrity, and my drive. Each of these traits have helped me get to where I am today, but I know there's more for me to learn!
 
 # Technical Skillset
