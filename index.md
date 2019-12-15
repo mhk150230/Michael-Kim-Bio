@@ -24,7 +24,7 @@ Hi! My name is Michael Kim and I am currently an Electrical and Computer Enginee
 Over the past 5 years, I have been blessed to be able to take courses that spark my interest while also focusing on my development as a future engineer. I have had many successes to push me to aspire for more, and I have had many failures to keep myself in check. I'm not afraid to fail, but my mindset is always to succeed. My three strongest attributes are my work ethic, my integrity, and my drive. Each of these traits have helped me get to where I am today, but I know there's more for me to learn!
 
 # Technical Skillset
-I have taken a variety of classes to supplement my growth towards an engineering career. Nevertheless, there are a few things that I have become more comfortable with compared to others!
+I have taken a variety of classes to supplement my growth towards an engineering career. Here's a quick debrief!
 
 <dl>
 <dt>Coding Languages</dt>
@@ -53,20 +53,20 @@ I have taken a variety of classes to supplement my growth towards an engineering
 **Project goal**: Our goal is to create a gesture recognition algorithm for purposes of interfacing sEMG sensors with personal devices and IoT. We believe that today the vast potential of EMG signal for providing convenient and natural way of device control is majorly overlooked. With our project we want to contribute to the field of human biosignals processing, which one day will set a new standards of human-computer communication!
 
 
-**Website**: https://slavainder.github.io/M202A/
+**Website**: [https://slavainder.github.io/M202A/](https://slavainder.github.io/M202A/)
 
 
-**Github**:  https://github.com/SlavaInder/M202A
+**Github**:  [https://github.com/SlavaInder/M202A](https://github.com/SlavaInder/M202A)
 
 #### Eat It!
 **Project Goal**: The ease of access to many products have revolutionized the way consumers approach their daily needs. For example, the rise of apps such as GrubHub, Uber Eats, and Postmates have created a networking system that allows for virtually any food to easily arrive at your doorstep. The issue of maintaining a healthy conscious then arises with so much accessibility to restaurants and meals. Few people are aware of what goes into those meals and keeping track of everything can become a hassle. Our application "Eat It!" makes it just as easy to track those meals as it is to order them. Simply give us your dietary preferences or restrictions and hover the camera over your meal. Ingredients, calories, what to eat, and what not to eat all at your fingertips. We make it easy to choose the right option!
 
 
-**Github**: https://github.com/mhk150230/FoodIdentifierApp
+**Github**: [https://github.com/mhk150230/FoodIdentifierApp](https://github.com/mhk150230/FoodIdentifierApp)
 
 
 #### Wearable Playground Sensor for Children in Recovery
-**Project Description**: The goal of our project was to create a set of mobile devices for children in recovery that monitored their health and location at a real-time rate. The device consisted of attachments at the wrist and ankle to measure heart rate, location, and acceleration data. The project was sponsored by The Texas Scottish Rite Hospital from August 2018 to May 2019. 
+**Project Description**: The goal of our project was to create a set of mobile devices for children in recovery that monitored their health and location at a real-time rate. The device consisted of attachments at the wrist and ankle to measure heart rate, location, and acceleration data. The project was sponsored by The Texas Scottish Rite Hospital from August 2018 to May 2019. Unfortunately, I am unable to share the work done for this project.
 
 Features:
 
@@ -88,7 +88,7 @@ Kobe. Bean. Bryant.
 The man is an unstoppable force in the game of basketball. If you pressure him at the top, he'll go by you. If you give him the shot, he's going to take it. He's got handles, he can pass, he can shoot. If you want it bad, just know that so does he. There is nothing this man won't do to win. Kobe Bryant is a phenomenal basketball player, but what draws me to him the most is what he does to get there: the work ethic, the passion, the hunger, and the perserverance. There's an aura about Kobe that I can't describe, but there's no doubt about it- it's got something to do with the number 5. 
 
 <html>
-<center><img style="-webkit-user-select: none;margin: auto;" src="https://thumbs.gfycat.com/EnchantingFickleAphid-size_restricted.gif" style="max-width:50%"></center></html>
+<center><img style="-webkit-user-select: none;margin: auto;" src="https://thumbs.gfycat.com/EnchantingFickleAphid-size_restricted.gif" style="max-width:80%"></center></html>
 
 
 # My Favorite Quotes
@@ -102,4 +102,4 @@ Don't get me wrong, I still value experience! However, there's much more left to
 > - Kobe Bryant
 
 <html><center><img src="
-https://cdn-s3.si.com/s3fs-public/kobe-bryant-killer-instinct-vault-lakers-lead_0.jpg" style="max-width:50%"></center></html>
+https://cdn-s3.si.com/s3fs-public/kobe-bryant-killer-instinct-vault-lakers-lead_0.jpg" style="max-width:80%"></center></html>
