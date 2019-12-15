@@ -2,7 +2,7 @@
 layout: default
 ---
 <html>
-  <center><img src="https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2011/06/12/112882-dirk-nowitzki.jpg" style="max-width:70%"></center>
+  <center><img src="Profile.png" style="max-width:70%"></center>
   </html>
   
 <dl>
@@ -19,7 +19,7 @@ layout: default
 * * *
 
 # About
-Hi! My name is Michael and I am currently a Master of Engineering candidate for Electrical and Computer Engineering at the University of California, Los Angeles. I expect to complete my degree by December 2020. 
+Hi! My name is Michael and I am currently an Electrical and Computer Engineering graduate student at the University of California, Los Angeles. I expect to complete my Master's degree by December 2020. 
 
 
 > "I truly believe experience is necessary for those who are unqualified. 
@@ -44,6 +44,17 @@ Although, I still value experience greatly, this quote really resonates with me 
 
 **Github**: https://github.com/mhk150230/FoodIdentifierApp
 
+
+### Wearable Playground Sensor for Children in Recovery
+**Project Description**: The goal of our project was to create a set of mobile devices for children in recovery that monitored their health and location at a real-time rate. The device consisted of attachments at the wrist and ankle to measure heart rate, location, and acceleration data. 
+
+Features:
+
+- Data is stored and processed externally
+- Wireless communication between anchors and ultra-wideband chips were required for real-time data entry
+- 3D printed models from SolidWorks were utilized as the shells for the devices
+- Matlab post-processing program with GUI 
+- Arduino-based mobile data-loggers
 
 
 # Extracurriculars
