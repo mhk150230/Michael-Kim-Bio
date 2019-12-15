@@ -2,7 +2,7 @@
 layout: default
 ---
 <html>
-  <center><img src="Profile.png" style="max-width:50%"></center>
+  <center><img src="Profile.png" style="max-width:40%"></center>
   </html>
   
 <dl>
