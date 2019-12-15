@@ -16,6 +16,8 @@ layout: default
   <dd><a href = "https://github.com/mhk150230/">GitHub</a></dd>
 </dl>
 
+Download my Resume [here]("Kim_Michael_Resume.pdf")
+
 * * *
 
 # About
