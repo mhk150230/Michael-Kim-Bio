@@ -104,7 +104,7 @@ The man is an unstoppable force in the game of basketball. If you pressure him a
 > So in other words, if you’re not qualified to do it, you need that experience."
 > - Russell Wilson
 
-Don't get me wrong, I still value experience! However, there's much more left to come; this quote will continue to push me as I encounter new situations and grow as an individual!
+Don't get me wrong, I still value experience! However, there's much more new experiences to come; this quote will continue to push me as I encounter new situations and grow as an individual!
 
 > "Everything negative - pressures, challenges - is all an opportunity for me to rise"
 > - Kobe Bryant
