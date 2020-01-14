@@ -65,6 +65,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>Wearable Playground Sensor for Children in Recovery (details under Projects)</dd>
   
   
+  
 ### Teaching Assistant for Mathematics for Life Scientists
 <dt>From</dt>
   <dd>December 2019 - March 2020</dd>
@@ -72,6 +73,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>University of California, Los Angeles</dd>
 <dt>Description</dt>
   <dd>Assist in the delivery of a Mathematics course at UCLA such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd>
+  
   
   
 ### OASA Engineering Peer Counselor
@@ -83,6 +85,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>Consult with engineering students at the Office of Academic Student Affairs regarding course planning, course work, etc.</dd>
     
     
+    
 ### Private Academic Instructor
 <dt>From</dt>
   <dd>August 2017 - September 2019</dd>
@@ -92,6 +95,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>Conduct personal tutorial sessions for students with academic deficiencies: SAT or subject tutoring, and determine the areas of assistance important for the student’s success</dd>
   
   
+  
 ### Teaching Assistant for Introduction to Engineering
 <dt>From</dt>
   <dd>August 2018 - December 2018</dd>
@@ -99,6 +103,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>University of Texas at Dallas</dd>
 <dt>Description</dt>
   <dd>Assist in the delivery of an introductory course at UTD such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd>
+
 
 
 # Projects
