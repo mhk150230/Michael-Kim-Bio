@@ -72,7 +72,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
 <dt>Employer</dt>
   <dd>University of California, Los Angeles</dd>
 <dt>Description</dt>
-  <dd>Assist in the delivery of a Mathematics course at UCLA such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd>
+  <dd>Assist in the delivery of a Mathematics course at UCLA such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd><br>
   
   
   
@@ -82,7 +82,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
 <dt>Employer</dt>
   <dd>University of California, Los Angeles</dd>
 <dt>Description</dt>
-  <dd>Consult with engineering students at the Office of Academic Student Affairs regarding course planning, course work, etc.</dd>
+  <dd>Consult with engineering students at the Office of Academic Student Affairs regarding course planning, course work, etc.</dd><br>
     
     
     
@@ -92,7 +92,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
 <dt>Employer</dt>
   <dd>Scholastic Success</dd>
 <dt>Description</dt>
-  <dd>Conduct personal tutorial sessions for students with academic deficiencies: SAT or subject tutoring, and determine the areas of assistance important for the student’s success</dd>
+  <dd>Conduct personal tutorial sessions for students with academic deficiencies: SAT or subject tutoring, and determine the areas of assistance important for the student’s success</dd><br>
   
   
   
@@ -102,7 +102,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
 <dt>Employer</dt>
   <dd>University of Texas at Dallas</dd>
 <dt>Description</dt>
-  <dd>Assist in the delivery of an introductory course at UTD such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd>
+  <dd>Assist in the delivery of an introductory course at UTD such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd><br>
 
 
 
