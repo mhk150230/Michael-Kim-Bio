@@ -55,6 +55,52 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>Biomedical Applications</dd>
 </dl>
 
+# Work Experience
+### Biomedical Engineer (Senior Design Opportunity)
+<dt>From</dt>
+  <dd>August 2018 - June 2019</dd>
+<dt>Employer</dt>
+  <dd>Texas Scottish Rite Hospital</dd>
+<dt>Description</dt>
+  <dd>Wearable Playground Sensor for Children in Recovery (details under Projects)</dd>
+  
+  
+### Teaching Assistant for Mathematics for Life Scientists
+<dt>From</dt>
+  <dd>December 2019 - March 2020</dd>
+<dt>Employer</dt>
+  <dd>University of California, Los Angeles</dd>
+<dt>Description</dt>
+  <dd>Assist in the delivery of a Mathematics course at UCLA such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd>
+  
+  
+### OASA Engineering Peer Counselor
+<dt>From</dt>
+  <dd>September 2019 - December 2019</dd>
+<dt>Employer</dt>
+  <dd>University of California, Los Angeles</dd>
+<dt>Description</dt>
+  <dd>Consult with engineering students at the Office of Academic Student Affairs regarding course planning, course work, etc.</dd>
+    
+    
+### Private Academic Instructor
+<dt>From</dt>
+  <dd>August 2017 - September 2019</dd>
+<dt>Employer</dt>
+  <dd>Scholastic Success</dd>
+<dt>Description</dt>
+  <dd>Conduct personal tutorial sessions for students with academic deficiencies: SAT or subject tutoring, and determine the areas of assistance important for the student’s success</dd>
+  
+  
+### Teaching Assistant for Introduction to Engineering
+<dt>From</dt>
+  <dd>August 2018 - December 2018</dd>
+<dt>Employer</dt>
+  <dd>University of Texas at Dallas</dd>
+<dt>Description</dt>
+  <dd>Assist in the delivery of an introductory course at UTD such as leading discussions, developing course materials, preparing exams, and working closely with the professor to create a lesson plan</dd>
+
+
 # Projects
 #### Real-Time sEMG Gesture Recognition for Remote Expression in Personal Devices and IoT
 **Project goal**: Our goal is to create a gesture recognition algorithm for purposes of interfacing sEMG sensors with personal devices and IoT. We believe that today the vast potential of EMG signal for providing convenient and natural way of device control is majorly overlooked. With our project we want to contribute to the field of human biosignals processing, which one day will set a new standards of human-computer communication!
@@ -72,7 +118,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
 **Github**: [https://github.com/mhk150230/FoodIdentifierApp](https://github.com/mhk150230/FoodIdentifierApp)
 
 
-#### Wearable Playground Sensor for Children in Recovery
+#### Wearable Playground Sensor for Children in Recovery (details under Projects)
 **Project Description**: The goal of our project was to create a set of mobile devices for children in recovery that monitored their health and location at a real-time rate. The device consisted of attachments at the wrist and ankle to measure heart rate, location, and acceleration data. The project was sponsored by The Texas Scottish Rite Hospital from August 2018 to May 2019. Unfortunately, I am unable to share the work done for this project.
 
 Features:
