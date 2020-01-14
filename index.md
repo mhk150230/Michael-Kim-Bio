@@ -56,7 +56,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
 </dl>
 
 # Work Experience
-### Biomedical Engineer (Senior Design Opportunity)
+#### Biomedical Engineer (Senior Design Opportunity)
 <dt>From</dt>
   <dd>August 2018 - June 2019</dd>
 <dt>Employer</dt>
@@ -66,7 +66,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   
   
   
-### Teaching Assistant for Mathematics for Life Scientists
+#### Teaching Assistant for Mathematics for Life Scientists
 <dt>From</dt>
   <dd>December 2019 - March 2020</dd>
 <dt>Employer</dt>
@@ -76,7 +76,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   
   
   
-### OASA Engineering Peer Counselor
+#### OASA Engineering Peer Counselor
 <dt>From</dt>
   <dd>September 2019 - December 2019</dd>
 <dt>Employer</dt>
@@ -86,7 +86,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
     
     
     
-### Private Academic Instructor
+#### Private Academic Instructor
 <dt>From</dt>
   <dd>August 2017 - September 2019</dd>
 <dt>Employer</dt>
@@ -96,7 +96,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   
   
   
-### Teaching Assistant for Introduction to Engineering
+#### Teaching Assistant for Introduction to Engineering
 <dt>From</dt>
   <dd>August 2018 - December 2018</dd>
 <dt>Employer</dt>
@@ -107,7 +107,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
 
 
 # Projects
-### Real-Time sEMG Gesture Recognition for Remote Expression in Personal Devices and IoT
+#### Real-Time sEMG Gesture Recognition for Remote Expression in Personal Devices and IoT
 **Project goal**: Our goal is to create a gesture recognition algorithm for purposes of interfacing sEMG sensors with personal devices and IoT. We believe that today the vast potential of EMG signal for providing convenient and natural way of device control is majorly overlooked. With our project we want to contribute to the field of human biosignals processing, which one day will set a new standards of human-computer communication!
 
 
@@ -116,14 +116,14 @@ I have taken a variety of classes to supplement my growth towards an engineering
 
 **Github**:  [https://github.com/SlavaInder/M202A](https://github.com/SlavaInder/M202A)
 
-### Eat It!
+#### Eat It!
 **Project Goal**: The ease of access to many products have revolutionized the way consumers approach their daily needs. For example, the rise of apps such as GrubHub, Uber Eats, and Postmates have created a networking system that allows for virtually any food to easily arrive at your doorstep. The issue of maintaining a healthy conscious then arises with so much accessibility to restaurants and meals. Few people are aware of what goes into those meals and keeping track of everything can become a hassle. Our application "Eat It!" makes it just as easy to track those meals as it is to order them. Simply give us your dietary preferences or restrictions and hover the camera over your meal. Ingredients, calories, what to eat, and what not to eat all at your fingertips. We make it easy to choose the right option!
 
 
 **Github**: [https://github.com/mhk150230/FoodIdentifierApp](https://github.com/mhk150230/FoodIdentifierApp)
 
 
-### Wearable Playground Sensor for Children in Recovery (details under Projects)
+#### Wearable Playground Sensor for Children in Recovery (details under Projects)
 **Project Description**: The goal of our project was to create a set of mobile devices for children in recovery that monitored their health and location at a real-time rate. The device consisted of attachments at the wrist and ankle to measure heart rate, location, and acceleration data. The project was sponsored by The Texas Scottish Rite Hospital from August 2018 to May 2019. Unfortunately, I am unable to share the work done for this project.
 
 Features:
