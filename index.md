@@ -124,6 +124,20 @@ Features:
 - Matlab post-processing program with GUI 
 - Arduino-based mobile data-loggers
 
+#### Classification Analysis on Textual Data
+**Project Goal**: Statistical classification refers to the task of identifying a category, from a predefined set, to which a data point belongs, given a training data set with known category memberships. Classification differs from the task of clustering, which concerns grouping data points with no predefined category memberships, where the objective is to seek inherent structures in data with respect to suitable measures. Classification turns out as an essential element of data analysis, especially when dealing with a large amount of data. In this project, we look into different methods for classifying textual data. In this project, the goal includes:
+
+1. To learn how to construct tf-idf representations of textual data.
+
+2. To get familiar with various common classification methods.
+
+3. To learn ways to evaluate and diagnose classification results.
+
+4. To learn two dimensionality reduction methods: PCA & NMF.
+
+5. To get familiar with the complete pipeline of a textual data classification task.
+
+**Github**: [https://github.com/mhk150230/Classification-Analysis-on-Textual-Data](https://github.com/mhk150230/Classification-Analysis-on-Textual-Data)
 
 # Extracurriculars
 When I am not on the job, I enjoy keeping an active lifestyle, playing different sports such as basketball, football, and soccer. I love the competition and fully embrace the opportunity to improve every chance I get. I have participated in a handful of basketball tournaments including annual IM brackets for 5v5 and 3v3. From my love for competition also stems my guilty pleasure: League of Legends. Although I haven't yet reached my goal, I hope to make an appearance as a challenger player at some point. Unfortunately with other priorities in the way, this will have to wait. 
