@@ -143,26 +143,3 @@ Features:
 When I am not on the job, I enjoy keeping an active lifestyle, playing different sports such as basketball, football, and soccer. I love the competition and fully embrace the opportunity to improve every chance I get. I have participated in a handful of basketball tournaments including annual IM brackets for 5v5 and 3v3. From my love for competition also stems my guilty pleasure: League of Legends. Although I haven't yet reached my goal, I hope to make an appearance as a challenger player at some point. Unfortunately with other priorities in the way, this will have to wait. 
 
 I also enjoy teaching as I’ve worked as both a private and classroom-based instructor for students as young as the 1st grade. I started out leading summer camps for elementary students starting from the 7th grade, and more recently, I worked as a private instructor for Scholastic Success. I have also held a position as a teaching assistant (TA) for the "Introduction to Engineering" at the University of Texas at Dallas and look to be the TA for "Mathematics for Scientists" at the University of California, Los Angeles starting January 2020. I plan to continue teaching so long as the opportunity remains at my doorstep!
-
-# My Role Model
-Kobe. Bean. Bryant. 
-
-The man is an unstoppable force in the game of basketball. If you pressure him at the top, he'll go by you. If you give him the shot, he's going to take it. He's got handles, he can pass, he can shoot. If you want it bad, just know that so does he. There is nothing this man won't do to win. Kobe Bryant is a phenomenal basketball player, but what draws me to him the most is what he does to get there: the work ethic, the passion, the hunger, and the perserverance. There's an aura about Kobe that I can't describe, but there's no doubt about it- it's got something to do with the number 5. 
-
-<html>
-<center><img style="-webkit-user-select: none;margin: auto;" src="https://thumbs.gfycat.com/EnchantingFickleAphid-size_restricted.gif" style="max-width:80%"></center><br></html>
-
-
-
-# My Favorite Quotes
-> "I truly believe experience is necessary for those who are unqualified. 
-> So in other words, if you’re not qualified to do it, you need that experience."
-> - Russell Wilson
-
-Don't get me wrong, I still value experience! However, there's much more new experiences to come; this quote will continue to push me as I encounter new situations and grow as an individual!
-
-> "Everything negative - pressures, challenges - is all an opportunity for me to rise"
-> - Kobe Bryant
-
-<html><center><img src="
-https://cdn-s3.si.com/s3fs-public/kobe-bryant-killer-instinct-vault-lakers-lead_0.jpg" style="max-width:80%"></center></html>
