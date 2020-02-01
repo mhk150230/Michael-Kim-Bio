@@ -31,7 +31,7 @@ Hi! My name is Michael Kim and I am currently an Electrical and Computer Enginee
 Over the past 5 years, I have been blessed to be able to take courses that spark my interest while also focusing on my development as a future engineer. I have had many successes to push me to aspire for more, and I have had many failures to keep myself in check. I'm not afraid to fail, but my mindset is always to succeed. My three strongest attributes are my work ethic, my integrity, and my drive. Each of these traits have helped me get to where I am today, but I know there's more for me to learn!
 
 # Technical Skillset
-I have taken a variety of classes to supplement my growth towards an engineering career. Here's a quick debrief!
+I have taken a variety of classes to supplement my growth towards an engineering career. Additionally, I have taken time outside of my courses to further develop these skills through challenges on HackerRank, Leetcode, and w3schools.  Here's a quick debrief:
 
 <dl>
 <dt>Coding Languages</dt>
@@ -40,7 +40,7 @@ I have taken a variety of classes to supplement my growth towards an engineering
   <dd>Java (Strong)</dd>
   <dd>C (Strong)</dd>
   <dd>C++</dd>
-  <dd>HTML/CSS (Strong)</dd>
+  <dd>HTML/CSS</dd>
   <dd>Android Studios (Strong)</dd>
   <dd>Verilog</dd>
 <dt>Graduate Study Classes</dt>
