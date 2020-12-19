@@ -35,20 +35,31 @@ I have taken a variety of classes to supplement my growth towards an engineering
 
 <dl>
 <dt>Coding Languages</dt>
-  <dd>Python (Strong)</dd>
-  <dd>MatLab (Strong)</dd>
-  <dd>Java (Strong)</dd>
-  <dd>C (Strong)</dd>
-  <dd>C++</dd>
+  <dd>Python</dd>
+  <dd>MatLab</dd>
+  <dd>Java</dd>
+  <dd>C/C++</dd>
   <dd>HTML/CSS</dd>
   <dd>Android Studios (Strong)</dd>
   <dd>Verilog</dd>
-<dt>Graduate Study Classes</dt>
+<dt>Undergraduate Classes</dt>
+  <dd>Computer Science 1 and 2</dd>
+  <dd>Feedback Systems</dd>
+  <dd>Electric and Electronic Circuits</dd>
+  <dd>Signals and Systems</dd>
+  <dd>Advanced Computational Tools for Engineering</dd>
+  <dd>Digital Circuits</dd>
+  <dd>Biomaterials and Medical Devices</dd>
+<dt>Graduate Classes</dt>
   <dd>Embedded Systems</dd>
   <dd>Human Computer Interaction</dd>
   <dd>Digital Image Processing II</dd>
   <dd>Large Scale Data Mining (Models and Algorithms)</dd>
   <dd>Security and Privacy for IoT, Cyber-Physical Systems, and Embedded Systems</dd>
+  <dd>Computational Robotics</dd>
+  <dd>Matrix Analysis for Scientists and Engineers</dd>
+  <dd>Large Scale Social and Complex Networks</dd>
+  <dd>VLSI Design Automation</dd>
 <dt>Other Areas</dt>
   <dd>Machine Learning</dd>
   <dd>Electrical Circuits</dd>
