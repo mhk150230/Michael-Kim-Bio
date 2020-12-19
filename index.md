@@ -32,7 +32,7 @@ Over the past 5 years, I have been blessed to be able to take courses that spark
 
 When I am not on the job, I enjoy keeping an active lifestyle, playing different sports such as basketball, football, and soccer. I love the competition and fully embrace the opportunity to improve every chance I get. I have participated in a handful of basketball tournaments including annual IM brackets for 5v5 and 3v3. 
 
-I also enjoy teaching as I’ve worked as both a private and classroom-based instructor for students as young as the 1st grade. I started out leading summer camps for elementary students starting from the 7th grade, and more recently, I worked as a private instructor for Scholastic Success. I have also held a position as a teaching assistant (TA) for the "Introduction to Engineering" at the University of Texas at Dallas and look to be the TA for "Mathematics for Scientists" at the University of California, Los Angeles since January 2020. 
+I also enjoy teaching as I’ve worked as both a private and classroom-based instructor for students as young as the 1st grade. I started out leading summer camps for elementary students starting from the 7th grade, and more recently, I worked as a private instructor for Scholastic Success. I have also held a position as a teaching assistant (TA) for the "Introduction to Engineering" at the University of Texas at Dallas and have been a TA for "Mathematics for Scientists" at the University of California, Los Angeles since December 2020. 
 
 
 # Technical Skillset
