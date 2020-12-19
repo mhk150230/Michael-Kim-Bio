@@ -21,7 +21,7 @@ Download my resume [here](https://github.com/mhk150230/Michael-Kim-Bio/raw/maste
 * * *
 
 # About
-Hi! My name is Michael Kim and I am currently an Electrical and Computer Engineering graduate student at the University of California, Los Angeles. I expect to complete my Master's degree by December 2020. I completed my Bachelor's degree in Biomedical Engineering at the University of Texas at Dallas in May 2019. 
+Hi! My name is Michael Kim and I am currently an Electrical and Computer Engineering graduate student at the University of California, Los Angeles. I expect to complete my Master's degree by December 2020. I completed my Bachelor's degree in Biomedical Engineering at the University of Texas at Dallas in May 2019.
 
 <html>
   <center><img src="https://sportslogohistory.com/wp-content/uploads/2018/03/ucla_bruins_2004-pres_a.png
@@ -30,8 +30,13 @@ Hi! My name is Michael Kim and I am currently an Electrical and Computer Enginee
   
 Over the past 5 years, I have been blessed to be able to take courses that spark my interest while also focusing on my development as a future engineer. I have had many successes to push me to aspire for more, and I have had many failures to keep myself in check. I'm not afraid to fail, but my mindset is always to succeed. My three strongest attributes are my work ethic, my integrity, and my drive. Each of these traits have helped me get to where I am today, but I know there's more for me to learn!
 
+When I am not on the job, I enjoy keeping an active lifestyle, playing different sports such as basketball, football, and soccer. I love the competition and fully embrace the opportunity to improve every chance I get. I have participated in a handful of basketball tournaments including annual IM brackets for 5v5 and 3v3. 
+
+I also enjoy teaching as I’ve worked as both a private and classroom-based instructor for students as young as the 1st grade. I started out leading summer camps for elementary students starting from the 7th grade, and more recently, I worked as a private instructor for Scholastic Success. I have also held a position as a teaching assistant (TA) for the "Introduction to Engineering" at the University of Texas at Dallas and look to be the TA for "Mathematics for Scientists" at the University of California, Los Angeles since January 2020. 
+
+
 # Technical Skillset
-I have taken a variety of classes to supplement my growth towards an engineering career. Additionally, I have taken time outside of my courses to further develop these skills through challenges on HackerRank, Leetcode, and w3schools.  Here's a quick debrief:
+I have taken a variety of classes to supplement my growth towards an engineering career. Additionally, I have taken time outside of my courses to further develop these skills through challenges on HackerRank, Leetcode, and w3schools.  Here's a quick overview:
 
 <dl>
 <dt>Coding Languages</dt>
@@ -168,8 +173,3 @@ Features:
 **Github**: [https://github.com/Rayckey/social_game](https://github.com/Rayckey/social_game)
 
 **Paper**: [Social Distancing Simulator: 2D Planner in aMulti-Agent and Dynamic Environments](https://github.com/mhk150230/Classification-Analysis-on-Textual-Data)
-
-# Extracurriculars
-When I am not on the job, I enjoy keeping an active lifestyle, playing different sports such as basketball, football, and soccer. I love the competition and fully embrace the opportunity to improve every chance I get. I have participated in a handful of basketball tournaments including annual IM brackets for 5v5 and 3v3. 
-
-I also enjoy teaching as I’ve worked as both a private and classroom-based instructor for students as young as the 1st grade. I started out leading summer camps for elementary students starting from the 7th grade, and more recently, I worked as a private instructor for Scholastic Success. I have also held a position as a teaching assistant (TA) for the "Introduction to Engineering" at the University of Texas at Dallas and look to be the TA for "Mathematics for Scientists" at the University of California, Los Angeles since January 2020. 
