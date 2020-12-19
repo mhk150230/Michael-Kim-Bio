@@ -139,7 +139,14 @@ Features:
 
 **Github**: [https://github.com/mhk150230/Classification-Analysis-on-Textual-Data](https://github.com/mhk150230/Classification-Analysis-on-Textual-Data)
 
+####Social Distancing Simulator: 2D Planner in aMulti-Agent and Dynamic Environments
+**Project Goal**: Path planning in an environment cluttered withmoving obstacles is a challenging and extensively researchedtopic. Mature algorithms in such setting can be deployed tovarious applications in our daily life: household assistance robots,self-driving vehicles, warehouse robots etc. In this paper, wepropose an approach that breaks down the complex setup intotwo separate but interconnected problems: dynamic obstacletrajectory prediction given social context and path planning ofa single robot through an environment with dynamic obstacles.We examined two methods, one is a traditional RRT* and MPCpath planning supplemented with an RNN, and the other isDeep Q-learning. Within a simulated environment, we showedthat using social information for path prediction greatly aids theperformance of robot’s path planner.
+
+**Github**: [https://github.com/Rayckey/social_game](https://github.com/Rayckey/social_game)
+
+**Paper**: [https://github.com/mhk150230/Michael-Kim-Bio/blob/master/2D_Planner_in_a_Multi_Agent_and_Dynamic_Environments.pdf]
+
 # Extracurriculars
 When I am not on the job, I enjoy keeping an active lifestyle, playing different sports such as basketball, football, and soccer. I love the competition and fully embrace the opportunity to improve every chance I get. I have participated in a handful of basketball tournaments including annual IM brackets for 5v5 and 3v3. 
 
-I also enjoy teaching as I’ve worked as both a private and classroom-based instructor for students as young as the 1st grade. I started out leading summer camps for elementary students starting from the 7th grade, and more recently, I worked as a private instructor for Scholastic Success. I have also held a position as a teaching assistant (TA) for the "Introduction to Engineering" at the University of Texas at Dallas and look to be the TA for "Mathematics for Scientists" at the University of California, Los Angeles starting January 2020. 
+I also enjoy teaching as I’ve worked as both a private and classroom-based instructor for students as young as the 1st grade. I started out leading summer camps for elementary students starting from the 7th grade, and more recently, I worked as a private instructor for Scholastic Success. I have also held a position as a teaching assistant (TA) for the "Introduction to Engineering" at the University of Texas at Dallas and look to be the TA for "Mathematics for Scientists" at the University of California, Los Angeles since January 2020. 
