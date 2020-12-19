@@ -7,8 +7,8 @@ layout: default
   
 <dl>
 <dt>Education</dt>
-  <dd>University of California, Los Angeles (Expected Grad. 2020 with M.Eng.)</dd>
-  <dd>University of Texas at Dallas (Grad. 2019 with B.Eng.)</dd>
+  <dd>University of California, Los Angeles (Expected Grad. 2020 with M.Eng. in Electrical and Computer Engineering)</dd>
+  <dd>University of Texas at Dallas (Grad. 2019 with B.Eng. in Biomedical Engineering)</dd>
 <dt>Hometown</dt>
   <dd>Irving, Texas</dd>
 <dt>Other Links</dt>
@@ -62,11 +62,23 @@ I have taken a variety of classes to supplement my growth towards an engineering
 <dt>Employer</dt>
   <dd>Texas Scottish Rite Hospital</dd>
 <dt>Description</dt>
-  <dd>Wearable Playground Sensor for Children in Recovery (details under Projects)</dd><br>
+  <dd>Wearable Playground Sensor for Children in Recovery (details under Projects); Created a prototype of a mobile playground sensor to monitor the activity of children for recovery
+and research purposes; UWB-based real-time processing; Matlab post-processing GUI and
+Arduino-based mobile and real-time data-loggers</dd><br>
+
+#### Software/Hardware Engineering Intern
+<dt>From</dt>
+  <dd>June 2020 - September 2020</dd>
+<dt>Employer</dt>
+  <dd>Marvell</dd>
+<dt>Description</dt>
+  <dd>Validation of functionality of the Ethernet PHY API via comprehensive test cases; Created a
+Python testbench model and updated a PyQt GUI for interaction with the Ethernet PHY; Handles
+multiple test cases and provides visual feedback for results from inputs</dd><br>
   
 #### Teaching Assistant for Mathematics for Life Scientists
 <dt>From</dt>
-  <dd>December 2019 - March 2020</dd>
+  <dd>December 2019 - December 2020</dd>
 <dt>Employer</dt>
   <dd>University of California, Los Angeles</dd>
 <dt>Description</dt>
@@ -144,7 +156,7 @@ Features:
 
 **Github**: [https://github.com/Rayckey/social_game](https://github.com/Rayckey/social_game)
 
-**Paper**: [https://github.com/mhk150230/Michael-Kim-Bio/blob/master/2D_Planner_in_a_Multi_Agent_and_Dynamic_Environments.pdf]
+**Paper**: [Social Distancing Simulator: 2D Planner in aMulti-Agent and Dynamic Environments](https://github.com/mhk150230/Classification-Analysis-on-Textual-Data)
 
 # Extracurriculars
 When I am not on the job, I enjoy keeping an active lifestyle, playing different sports such as basketball, football, and soccer. I love the competition and fully embrace the opportunity to improve every chance I get. I have participated in a handful of basketball tournaments including annual IM brackets for 5v5 and 3v3. 
