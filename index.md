@@ -167,9 +167,9 @@ Features:
 
 **Github**: [https://github.com/mhk150230/Classification-Analysis-on-Textual-Data](https://github.com/mhk150230/Classification-Analysis-on-Textual-Data)
 
-#### Social Distancing Simulator: 2D Planner in aMulti-Agent and Dynamic Environments
+#### Social Distancing Simulator: 2D Planner in a Multi-Agent and Dynamic Environments
 **Project Goal**: Path planning in an environment cluttered withmoving obstacles is a challenging and extensively researchedtopic. Mature algorithms in such setting can be deployed tovarious applications in our daily life: household assistance robots,self-driving vehicles, warehouse robots etc. In this paper, wepropose an approach that breaks down the complex setup intotwo separate but interconnected problems: dynamic obstacletrajectory prediction given social context and path planning ofa single robot through an environment with dynamic obstacles.We examined two methods, one is a traditional RRT* and MPCpath planning supplemented with an RNN, and the other isDeep Q-learning. Within a simulated environment, we showedthat using social information for path prediction greatly aids theperformance of robot’s path planner.
 
 **Github**: [https://github.com/Rayckey/social_game](https://github.com/Rayckey/social_game)
 
-**Paper**: [Social Distancing Simulator: 2D Planner in aMulti-Agent and Dynamic Environments](https://github.com/mhk150230/Classification-Analysis-on-Textual-Data)
+**Paper**: [Social Distancing Simulator: 2D Planner in a_Multi-Agent and Dynamic Environments](https://github.com/mhk150230/Michael-Kim-Bio/blob/master/2D_Planner_in_a_Multi_Agent_and_Dynamic_Environments.pdf)
